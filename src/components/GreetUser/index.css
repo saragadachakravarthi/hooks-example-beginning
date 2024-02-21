@@ -1,0 +1,32 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 20px;
+}
+.sec-main-container{
+    background-color: rgb(234, 255, 248);
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 0px;
+    box-shadow: 0px 4px 12px 0px;
+}
+.spanbro{
+color: blueviolet;
+font-family: roboto;
+}
+.heading{
+    text-align: center;
+    margin-top: 10px;
+}
+.input-container{
+    padding: 20px;
+    margin-bottom: 10px;
+    color: rgb(17, 0, 255);
+    border-style: solid;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: rgb(101, 31, 54);
+}
